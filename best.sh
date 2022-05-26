@@ -6,3 +6,4 @@ Frankline
 Eboule
 isaac
 # bug removed
+echo "car automated services"
